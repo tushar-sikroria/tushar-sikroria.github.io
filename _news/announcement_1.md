@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-16 
 inline: true
 ---
 
-A simple inline announcement.
+Started as Post doctoral fellow at The von karman institute of fluid dynamics
