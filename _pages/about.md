@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Post Doctoral Fellow, The von Karman Institute for Fluid Dynamics </a>. 
+subtitle: Post Doctoral Fellow, The von Karman Institute for Fluid Dynamics
+<!--<a href='#'>Post Doctoral Fellow, The von Karman Institute for Fluid Dynamics </a>. -->
 
 profile:
   align: right
