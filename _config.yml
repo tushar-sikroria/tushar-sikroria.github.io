@@ -64,7 +64,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: tsikroria0
+github_username: tushar-sikroria
 gitlab_username: # 
 twitter_username: #
 linkedin_username: https://www.linkedin.com/in/tushar-sikroria-ab859529/
@@ -120,7 +120,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
