@@ -24,4 +24,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Post-doctoral fellow at the von Karman institute advised by [Dr. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/). I also closely collaborate with [Dr. Abhishek Kumar](http://www.abhishek.umiacs.io/) and [Dr. Hamim Zafar](https://hamimzafar.wixsite.com/home). 
 
-My current research interests braodly lie in the study of Scalable Bayesian inference and Unsupervised deep representation learning. However, I am also interested in drawing ideas from the fields of computational cognitive science and Computational neuroscience to make current AI systems more robust.
+My current research interests braodly lie in the study of Scalable Bayesian inference and Unsupervised deep representation learning. However, I am also interested in drawing ideas from the fields of computational cognitive science and Computational neuroscience to make current AI systems more robust. Edits.Edits.
