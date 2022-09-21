@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post Doctoral Fellow, The von Karman Institute for Fluid Dynamics
-
 
 profile:
   align: right
@@ -21,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-<!--<a href='#'>Post Doctoral Fellow, The von Karman Institute for Fluid Dynamics </a>. -->
+<! -- subtitle:  <a href='#'>Post Doctoral Fellow, The von Karman Institute for Fluid Dynamics </a>. -->
 
 I am a Post-doctoral fellow at the von Karman institute advised by [Dr. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/). I also closely collaborate with [Dr. Abhishek Kumar](http://www.abhishek.umiacs.io/) and [Dr. Hamim Zafar](https://hamimzafar.wixsite.com/home). 
 
