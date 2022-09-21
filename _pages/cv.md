@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vitae
+title: CV
 url: /assets/pdf/CV.pdf
 nav: true
 redirect_from:
